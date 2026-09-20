@@ -1,0 +1,15 @@
+Application shape: (307511, 122)
+Previous application shape: (1670214, 37)
+Missing values before (application): 9152465
+Merged shape: (307511, 125)
+Customers with no previous application: 5.4%
+
+Top 5 features by |correlation| with TARGET:
+ EXT_SOURCE_2                   0.160303
+EXT_SOURCE_3                   0.157397
+EXT_SOURCE_1                   0.099152
+DAYS_BIRTH                     0.078239
+REGION_RATING_CLIENT_W_CITY    0.060893
+Name: TARGET, dtype: float64
+
+Default rate: 8.07%
